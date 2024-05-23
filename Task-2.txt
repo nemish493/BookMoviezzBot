@@ -1,0 +1,3 @@
+AZURE DEPLOYMENT :
+
+Here is the public link to access: bookmovizzz.azurewebsites.net

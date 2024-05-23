@@ -1,0 +1,18 @@
+Group name:- Web wizard
+GROUP MEMBERS
+
+1) Name:  Nemish Kyada 
+   Matriculation: 22212034
+   contribution:- Extensiblity , Keyword spotting , Chat Engine , Deployment , Fallback Mechanism , Websocket
+
+2) Name: Mariia Peskova
+   Matriculation: 22204195
+   contribution: Design and layout , React Componets
+
+3) Name: Don Binoy
+   Matriculation: 22209158
+   Contribution: Try to deploy , Azure account setup
+
+4) Name: Azbabanu Engineer
+   Matriculation: 22201128
+   Contribution:  Keywords
