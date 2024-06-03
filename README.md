@@ -20,7 +20,6 @@ The repository is organized into the following directories:
 
 - **backend/**: Contains backend scripts and services.
 - **frontend/**: Contains frontend scripts and interface components.
-- **GROUP_DETAILS.txt**: Group information and contributors.
 - **Setup_Manual.txt**: Detailed setup instructions.
 - **Task-2.txt**: Task details and documentation.
 
